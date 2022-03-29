@@ -1,0 +1,13 @@
+/Users/nissopodolyak/Projects/snake/snake/bin/Debug/netcoreapp3.1/snake.deps.json
+/Users/nissopodolyak/Projects/snake/snake/bin/Debug/netcoreapp3.1/snake.runtimeconfig.json
+/Users/nissopodolyak/Projects/snake/snake/bin/Debug/netcoreapp3.1/snake.runtimeconfig.dev.json
+/Users/nissopodolyak/Projects/snake/snake/bin/Debug/netcoreapp3.1/snake.dll
+/Users/nissopodolyak/Projects/snake/snake/bin/Debug/netcoreapp3.1/snake.pdb
+/Users/nissopodolyak/Projects/snake/snake/obj/Debug/netcoreapp3.1/snake.csproj.AssemblyReference.cache
+/Users/nissopodolyak/Projects/snake/snake/obj/Debug/netcoreapp3.1/snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nissopodolyak/Projects/snake/snake/obj/Debug/netcoreapp3.1/snake.AssemblyInfoInputs.cache
+/Users/nissopodolyak/Projects/snake/snake/obj/Debug/netcoreapp3.1/snake.AssemblyInfo.cs
+/Users/nissopodolyak/Projects/snake/snake/obj/Debug/netcoreapp3.1/snake.csproj.CoreCompileInputs.cache
+/Users/nissopodolyak/Projects/snake/snake/obj/Debug/netcoreapp3.1/snake.dll
+/Users/nissopodolyak/Projects/snake/snake/obj/Debug/netcoreapp3.1/snake.pdb
+/Users/nissopodolyak/Projects/snake/snake/obj/Debug/netcoreapp3.1/snake.genruntimeconfig.cache
